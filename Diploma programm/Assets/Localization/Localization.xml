@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Keys xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Key Name="Play">
+		<Translates>
+			<en-us>New game</en-us>
+			<ru>Новая игра</ru>
+			<ua>Нова гра</ua>
+		</Translates>
+	</Key>
+	<Key Name="Options">
+		<Translates>
+			<en-us>Options</en-us>
+			<ru>Настройки</ru>
+			<ua>Налаштування</ua>
+		</Translates>
+	</Key>
+	<Key Name="Quit">
+		<Translates>
+			<en-us>Quit</en-us>
+			<ru>Выход из игры</ru>
+			<ua>Вихід з гри</ua>
+		</Translates>
+	</Key>
+	<Key Name="Yes">
+		<Translates>
+			<en-us>Yes</en-us>
+			<ru>Да</ru>
+			<ua>Так</ua>
+		</Translates>
+	</Key>
+	<Key Name="No">
+		<Translates>
+			<en-us>No</en-us>
+			<ru>Нет</ru>
+			<ua>Ні</ua>
+		</Translates>
+	</Key>
+	<Key Name="Are you sure quit the game?">
+		<Translates>
+			<en-us>Are you sure quit the game?</en-us>
+			<ru>Ты действительно хочешь выйти из игры?</ru>
+			<ua>Ти дійсно хочешь вийти з гри?</ua>
+		</Translates>
+	</Key>
+	<Key Name="Level 1">
+		<Translates>
+			<en-us>Level 1</en-us>
+			<ru>Уровень 1</ru>
+			<ua>Рівень 1</ua>
+		</Translates>
+	</Key>
+	<Key Name="Level 2">
+		<Translates>
+			<en-us>Level 2</en-us>
+			<ru>Уровень 2</ru>
+			<ua>Рівень 2</ua>
+		</Translates>
+	</Key>
+	<Key Name="Level 3">
+		<Translates>
+			<en-us>Level 3</en-us>
+			<ru>Уровень 3</ru>
+			<ua>Рівень 3</ua>
+		</Translates>
+	</Key>
+	<Key Name="Info Level">
+		<Translates>
+			<en-us>Info Level</en-us>
+			<ru>Информация о уровне</ru>
+			<ua>Інформація про рівень</ua>
+		</Translates>
+	</Key>
+	<Key Name="level1_text">
+		<Translates>
+			<en-us>Tutorial.  Learn basic controls of the game</en-us>
+			<ru>Обучение! Выучи базовое управление в игре</ru>
+			<ua>Навчання! Вивчи базові навики управління в грі</ua>
+		</Translates>
+	</Key>
+	<Key Name="level2_text">
+		<Translates>
+			<en-us>Now it`s challenge for you! You need to find the way to the evil!</en-us>
+			<ru>Вызов! Найди путь к злу!</ru>
+			<ua>Виклик! Знайди шлях до зла!</ua>
+		</Translates>
+	</Key>
+	<Key Name="level3_text">
+		<Translates>
+			<en-us>The evil is here! Prepare for battle!</en-us>
+			<ru>Зло здесь! Приготовся к битве!</ru>
+			<ua>Зло тут! Приготуйся до битви!</ua>
+		</Translates>
+	</Key>
+	<Key Name="level_clear_text">
+		<Translates>
+			<en-us> </en-us>
+			<ru> </ru>
+			<ua> </ua>
+		</Translates>
+	</Key>
+	<Key Name="Back">
+		<Translates>
+			<en-us>Back</en-us>
+			<ru>Назад</ru>
+			<ua>Назад</ua>
+		</Translates>
+	</Key>
+	<Key Name="Start">
+		<Translates>
+			<en-us>Play</en-us>
+			<ru>Играть</ru>
+			<ua>Грати</ua>
+		</Translates>
+	</Key>
+	<Key Name="Settings">
+		<Translates>
+			<en-us>Settings</en-us>
+			<ru>Настройки</ru>
+			<ua>Налаштування</ua>
+		</Translates>
+	</Key>
+	<Key Name="Volume">
+		<Translates>
+			<en-us>Volume</en-us>
+			<ru>Громкость</ru>
+			<ua>Гучність</ua>
+		</Translates>
+	</Key>
+	<Key Name="FullScreen">
+		<Translates>
+			<en-us>FullScreen</en-us>
+			<ru>Полноэкранный</ru>
+			<ua>На весь екран</ua>
+		</Translates>
+	</Key>
+	<Key Name="Music off/on">
+		<Translates>
+			<en-us>Music off/on</en-us>
+			<ru>Музика да/нет</ru>
+			<ua>Звук так/ні</ua>
+		</Translates>
+	</Key>
+	<Key Name="Resolution">
+		<Translates>
+			<en-us>Resolution</en-us>
+			<ru>Разрешение экрана</ru>
+			<ua>Розширення екрану</ua>
+		</Translates>
+	</Key>
+	<Key Name="Texture Quality">
+		<Translates>
+			<en-us>Texture Quality</en-us>
+			<ru>Качество текстур</ru>
+			<ua>Якість текстур</ua>
+		</Translates>
+	</Key>
+	<Key Name="Language">
+		<Translates>
+			<en-us>Language</en-us>
+			<ru>Язык</ru>
+			<ua>Мова</ua>
+		</Translates>
+	</Key>
+	<Key Name="Cancel_set">
+		<Translates>
+			<en-us>Cancel</en-us>
+			<ru>Отмена</ru>
+			<ua>Відмна</ua>
+		</Translates>
+	</Key>
+	<Key Name="Apply">
+		<Translates>
+			<en-us>Apply</en-us>
+			<ru>Принять</ru>
+			<ua>Прийняти</ua>
+		</Translates>
+	</Key>
+</Keys>
